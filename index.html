@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>NSAM Oils & Foods</title>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&family=Noto+Sans+Tamil:wght@400;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <div class="brand">NSAM Oils &amp; Foods</div>
+  <div class="lang">
+    <label for="language"><strong>EN / தமிழ்</strong></label>
+    <select id="language">
+      <option value="en">English</option>
+      <option value="ta">தமிழ்</option>
+    </select>
+  </div>
+</header>
+
+<main class="container">
+  <section class="hero">
+    <h2 id="title">Healthy Oils &amp; Honest Foods</h2>
+    <p id="subtitle">Cold-pressed oils, clean masalas, and herbal powders. Order on WhatsApp—Bengaluru &amp; Tamil Nadu delivery.</p>
+    <div class="filters" id="filters"></div>
+  </section>
+
+  <section>
+    <div class="grid" id="productGrid"></div>
+  </section>
+</main>
+
+<footer>
+  <div class="container">
+    <p id="address"><strong>Store:</strong> Electronic City Phase 1, Bengaluru • Door Delivery Available</p>
+    <p><strong>WhatsApp:</strong> <a href="https://wa.me/919944291896" target="_blank">+91 99442 91896</a></p>
+  </div>
+</footer>
+
+<!-- Lightbox -->
+<div id="lightbox" class="lightbox" aria-hidden="true">
+  <button class="nav prev" onclick="prevImage()" aria-label="Previous">‹</button>
+  <img id="lightboxImg" alt="Product image full view">
+  <button class="nav next" onclick="nextImage()" aria-label="Next">›</button>
+  <button class="close" onclick="closeLightbox()" aria-label="Close">✕</button>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

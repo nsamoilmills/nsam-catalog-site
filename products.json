@@ -1,0 +1,706 @@
+[
+  {
+    "sku": "HRB-SEMB-FLWR-100",
+    "name_en": "Sembaruthi Flower Powder 100g",
+    "name_ta": "செம்பருத்தி பூ பொடி 100g",
+    "price": 100,
+    "category": "Herbal Powders",
+    "unit": "100 g",
+    "image": "assets/sembaruthi_poo_home.png",
+    "images": [
+      "assets/sembaruthi_poo_home.png",
+      "assets/sembaruthi_poo_1.png",
+      "assets/sembaruthi_poo_2.png",
+      "assets/sembaruthi_poo_3.png"
+    ]
+  },
+  {
+    "sku": "HRB-SEMB-LEAF-100",
+    "name_en": "Sembaruthi Leaf Powder 100g",
+    "name_ta": "செம்பருத்தி இலை பொடி 100g",
+    "price": 50,
+    "category": "Herbal Powders",
+    "unit": "100 g",
+    "image": "assets/sembaruthi_ilai_powder_1.png",
+    "images": [
+      "assets/sembaruthi_ilai_powder_1.png",
+      "assets/sembaruthi_ilai_powder_2.png"
+    ]
+  },
+  {
+    "sku": "HRB-AAVAR-100",
+    "name_en": "Aavarampoo Powder 100g",
+    "name_ta": "ஆவாரம்பூ பொடி 100g",
+    "price": 95,
+    "category": "Herbal Powders",
+    "unit": "100 g",
+    "image": "assets/product_03.png",
+    "images": [
+      "assets/product_03.png",
+      "assets/product_03_alt.png"
+    ]
+  },
+  {
+    "sku": "HRB-GUAVA-LEAF-100",
+    "name_en": "Guava Leaf Powder 100g",
+    "name_ta": "கொய்யா இலை பொடி 100g",
+    "price": 95,
+    "category": "Herbal Powders",
+    "unit": "100 g",
+    "image": "assets/product_04.png",
+    "images": [
+      "assets/product_04.png",
+      "assets/product_04_alt.png"
+    ]
+  },
+  {
+    "sku": "HRB-MEHNDI-LEAF-100",
+    "name_en": "Maruthani (Henna) Leaf Powder 100g",
+    "name_ta": "மருதாணி இலை பொடி 100g",
+    "price": 90,
+    "category": "Herbal Powders",
+    "unit": "100 g",
+    "image": "assets/product_05.png",
+    "images": [
+      "assets/product_05.png",
+      "assets/product_05_alt.png"
+    ]
+  },
+  {
+    "sku": "HRB-PERANDAI-100",
+    "name_en": "Perandai Powder 100g",
+    "name_ta": "பெரண்டை பொடி 100g",
+    "price": 95,
+    "category": "Herbal Powders",
+    "unit": "100 g",
+    "image": "assets/product_06.png",
+    "images": [
+      "assets/product_06.png",
+      "assets/product_06_alt.png"
+    ]
+  },
+  {
+    "sku": "HRB-MURUN-LEAF-100",
+    "name_en": "Murungai Leaf Powder 100g",
+    "name_ta": "முருங்கை இலை பொடி 100g",
+    "price": 90,
+    "category": "Herbal Powders",
+    "unit": "100 g",
+    "image": "assets/product_07.png",
+    "images": [
+      "assets/product_07.png",
+      "assets/product_07_alt.png"
+    ]
+  },
+  {
+    "sku": "HRB-MURUN-KAAI-100",
+    "name_en": "Murungai Kaai Powder 100g",
+    "name_ta": "முருங்கை காய் பொடி 100g",
+    "price": 95,
+    "category": "Herbal Powders",
+    "unit": "100 g",
+    "image": "assets/product_08.png",
+    "images": [
+      "assets/product_08.png",
+      "assets/product_08_alt.png"
+    ]
+  },
+  {
+    "sku": "HRB-MURUN-PISIN-100",
+    "name_en": "Murungai Pisin 100g",
+    "name_ta": "முருங்கை பிசின் 100g",
+    "price": 120,
+    "category": "Herbal Powders",
+    "unit": "100 g",
+    "image": "assets/product_09.png",
+    "images": [
+      "assets/product_09.png",
+      "assets/product_09_alt.png"
+    ]
+  },
+  {
+    "sku": "HRB-MURUN-BARK-100",
+    "name_en": "Murungai Pattai (Bark) 100g",
+    "name_ta": "முருங்கைப்பட்டை 100g",
+    "price": 120,
+    "category": "Herbal Powders",
+    "unit": "100 g",
+    "image": "assets/product_10.png",
+    "images": [
+      "assets/product_10.png",
+      "assets/product_10_alt.png"
+    ]
+  },
+  {
+    "sku": "OIL-GNUT-1L",
+    "name_en": "Groundnut Oil 1L",
+    "name_ta": "நிலக்கடலை எண்ணெய் 1L",
+    "price": 300,
+    "category": "Oils",
+    "unit": "1 L",
+    "image": "assets/product_11.png",
+    "images": [
+      "assets/product_11.png",
+      "assets/product_11_alt.png"
+    ]
+  },
+  {
+    "sku": "OIL-COCO-1L",
+    "name_en": "Coconut Oil (Sulphur-Free) 1L",
+    "name_ta": "சல்பர் இல்லா தேங்காய் எண்ணெய் 1L",
+    "price": 450,
+    "category": "Oils",
+    "unit": "1 L",
+    "image": "assets/product_12.png",
+    "images": [
+      "assets/product_12.png",
+      "assets/product_12_alt.png"
+    ]
+  },
+  {
+    "sku": "OIL-GING-1L",
+    "name_en": "Gingelly (Sesame) Oil 1L",
+    "name_ta": "நல்லெண்ணெய் 1L",
+    "price": 450,
+    "category": "Oils",
+    "unit": "1 L",
+    "image": "assets/product_13.png",
+    "images": [
+      "assets/product_13.png",
+      "assets/product_13_alt.png"
+    ]
+  },
+  {
+    "sku": "VTL-ARISI-200",
+    "name_en": "Arisi Vathal 200g",
+    "name_ta": "அரிசி வத்தல் 200g",
+    "price": 110,
+    "category": "Vathals & Fryums",
+    "unit": "200 g",
+    "image": "assets/product_14.png",
+    "images": [
+      "assets/product_14.png",
+      "assets/product_14_alt.png"
+    ]
+  },
+  {
+    "sku": "VTL-KOOL-200",
+    "name_en": "Arisi Kool Vadaham 200g",
+    "name_ta": "அரிசி கூழ்வடாம் 200g",
+    "price": 120,
+    "category": "Vathals & Fryums",
+    "unit": "200 g",
+    "image": "assets/product_15.png",
+    "images": [
+      "assets/product_15.png",
+      "assets/product_15_alt.png"
+    ]
+  },
+  {
+    "sku": "VTL-KOTH-200",
+    "name_en": "Kothavarai Vathal 200g",
+    "name_ta": "கொத்தவரை வத்தல் 200g",
+    "price": 120,
+    "category": "Vathals & Fryums",
+    "unit": "200 g",
+    "image": "assets/product_16.png",
+    "images": [
+      "assets/product_16.png",
+      "assets/product_16_alt.png"
+    ]
+  },
+  {
+    "sku": "VTL-OKRA-200",
+    "name_en": "Vendaikkai Vathal 200g",
+    "name_ta": "வெண்டைக்காய் வத்தல் 200g",
+    "price": 130,
+    "category": "Vathals & Fryums",
+    "unit": "200 g",
+    "image": "assets/product_17.png",
+    "images": [
+      "assets/product_17.png",
+      "assets/product_17_alt.png"
+    ]
+  },
+  {
+    "sku": "VTL-DAL-200",
+    "name_en": "Paruppu Vathal 200g",
+    "name_ta": "பருப்பு வத்தல் 200g",
+    "price": 110,
+    "category": "Vathals & Fryums",
+    "unit": "200 g",
+    "image": "assets/product_18.png",
+    "images": [
+      "assets/product_18.png",
+      "assets/product_18_alt.png"
+    ]
+  },
+  {
+    "sku": "VTL-BRIN-200",
+    "name_en": "Katharikkai Vathal 200g",
+    "name_ta": "கத்தரிக்காய் வத்தல் 200g",
+    "price": 130,
+    "category": "Vathals & Fryums",
+    "unit": "200 g",
+    "image": "assets/product_19.png",
+    "images": [
+      "assets/product_19.png",
+      "assets/product_19_alt.png"
+    ]
+  },
+  {
+    "sku": "MSL-MORE-100",
+    "name_en": "More Milahai 100g",
+    "name_ta": "மோர் மிளகாய் 100g",
+    "price": 60,
+    "category": "Vathals & Fryums",
+    "unit": "100 g",
+    "image": "assets/product_20.png",
+    "images": [
+      "assets/product_20.png",
+      "assets/product_20_alt.png"
+    ]
+  },
+  {
+    "sku": "HRB-ROSE-100",
+    "name_en": "Rose Powder 100g",
+    "name_ta": "ரோஸ் பொடி 100g",
+    "price": 110,
+    "category": "Herbal Powders",
+    "unit": "100 g",
+    "image": "assets/product_21.png",
+    "images": [
+      "assets/product_21.png",
+      "assets/product_21_alt.png"
+    ]
+  },
+  {
+    "sku": "HRB-PAPAYA-100",
+    "name_en": "Papaya Powder 100g",
+    "name_ta": "பப்பாளி பொடி 100g",
+    "price": 110,
+    "category": "Herbal Powders",
+    "unit": "100 g",
+    "image": "assets/product_22.png",
+    "images": [
+      "assets/product_22.png",
+      "assets/product_22_alt.png"
+    ]
+  },
+  {
+    "sku": "HRB-MULLU-100",
+    "name_en": "Mullu Murungai Powder 100g",
+    "name_ta": "முள்ளு முருங்கை பொடி 100g",
+    "price": 110,
+    "category": "Herbal Powders",
+    "unit": "100 g",
+    "image": "assets/product_23.png",
+    "images": [
+      "assets/product_23.png",
+      "assets/product_23_alt.png"
+    ]
+  },
+  {
+    "sku": "HRB-MUDAK-100",
+    "name_en": "Mudakkathan Powder 100g",
+    "name_ta": "முடக்கத்தான் பொடி 100g",
+    "price": 110,
+    "category": "Herbal Powders",
+    "unit": "100 g",
+    "image": "assets/product_24.png",
+    "images": [
+      "assets/product_24.png",
+      "assets/product_24_alt.png"
+    ]
+  },
+  {
+    "sku": "SNK-POTC-200",
+    "name_en": "Potato Chips (Groundnut Oil) 200g",
+    "name_ta": "உருளைக்கிழங்கு சிப்ஸ் (நிலக்கடலை எண்ணெய்) 200g",
+    "price": 120,
+    "category": "Snacks",
+    "unit": "200 g",
+    "image": "assets/product_25.png",
+    "images": [
+      "assets/product_25.png",
+      "assets/product_25_alt.png"
+    ]
+  },
+  {
+    "sku": "MSL-7OOR-PULI-200",
+    "name_en": "7 Ooru Pulikolambu Masala 200g",
+    "name_ta": "ஏழு ஊர் புளிகுழம்பு மசாலா 200g",
+    "price": 130,
+    "category": "Masalas & Blends",
+    "unit": "200 g",
+    "image": "assets/product_26.png",
+    "images": [
+      "assets/product_26.png",
+      "assets/product_26_alt.png"
+    ]
+  },
+  {
+    "sku": "SPC-TURM-200",
+    "name_en": "Turmeric Powder 200g",
+    "name_ta": "மஞ்சள் தூள் 200g",
+    "price": 70,
+    "category": "Spices & Powders",
+    "unit": "200 g",
+    "image": "assets/product_27.png",
+    "images": [
+      "assets/product_27.png",
+      "assets/product_27_alt.png"
+    ]
+  },
+  {
+    "sku": "MSL-7OOR-KURMA-200",
+    "name_en": "7 Ooru Kurma Powder 200g",
+    "name_ta": "ஏழு ஊர் குருமா பொடி 200g",
+    "price": 130,
+    "category": "Masalas & Blends",
+    "unit": "200 g",
+    "image": "assets/product_28.png",
+    "images": [
+      "assets/product_28.png",
+      "assets/product_28_alt.png"
+    ]
+  },
+  {
+    "sku": "MSL-BIRI-100",
+    "name_en": "Biryani Masala 100g",
+    "name_ta": "பிரியாணி மசாலா 100g",
+    "price": 120,
+    "category": "Masalas & Blends",
+    "unit": "100 g",
+    "image": "assets/product_29.png",
+    "images": [
+      "assets/product_29.png",
+      "assets/product_29_alt.png"
+    ]
+  },
+  {
+    "sku": "MIX-IDYPM-500",
+    "name_en": "Idiyappam Mix 500g",
+    "name_ta": "இடியாப்பம் மிக்ஸ் 500g",
+    "price": 140,
+    "category": "Mixes & Instant",
+    "unit": "500 g",
+    "image": "assets/product_30.png",
+    "images": [
+      "assets/product_30.png",
+      "assets/product_30_alt.png"
+    ]
+  },
+  {
+    "sku": "SPC-CHIL-200",
+    "name_en": "Chilli Powder 200g",
+    "name_ta": "மிளகாய் தூள் 200g",
+    "price": 80,
+    "category": "Spices & Powders",
+    "unit": "200 g",
+    "image": "assets/product_31.png",
+    "images": [
+      "assets/product_31.png",
+      "assets/product_31_alt.png"
+    ]
+  },
+  {
+    "sku": "SPC-KASH-200",
+    "name_en": "Kashmiri Chilli Powder 200g",
+    "name_ta": "காஷ்மீரி மிளகாய் தூள் 200g",
+    "price": 110,
+    "category": "Spices & Powders",
+    "unit": "200 g",
+    "image": "assets/product_32.png",
+    "images": [
+      "assets/product_32.png",
+      "assets/product_32_alt.png"
+    ]
+  },
+  {
+    "sku": "SPC-BYAD-200",
+    "name_en": "Byadagi Chilli Powder 200g",
+    "name_ta": "ப்யாடகி மிளகாய் தூள் 200g",
+    "price": 110,
+    "category": "Spices & Powders",
+    "unit": "200 g",
+    "image": "assets/product_33.png",
+    "images": [
+      "assets/product_33.png",
+      "assets/product_33_alt.png"
+    ]
+  },
+  {
+    "sku": "HRB-SEEHARKAI-100",
+    "name_en": "Seeharkai Powder 100g",
+    "name_ta": "சீஹார்காய் பொடி 100g",
+    "price": 95,
+    "category": "Herbal Powders",
+    "unit": "100 g",
+    "image": "assets/product_34.png",
+    "images": [
+      "assets/product_34.png",
+      "assets/product_34_alt.png"
+    ]
+  },
+  {
+    "sku": "BEAU-FACE-WHITE-50",
+    "name_en": "Face Whitening Pack 50g",
+    "name_ta": "முக வெளிர்ப்பு பேக் 50g",
+    "price": 99,
+    "category": "Beauty & Care",
+    "unit": "50 g",
+    "image": "assets/product_35.png",
+    "images": [
+      "assets/product_35.png",
+      "assets/product_35_alt.png"
+    ]
+  },
+  {
+    "sku": "HRB-KARISAL-100",
+    "name_en": "Karisalanganni Powder 100g",
+    "name_ta": "கரிசாலங்கண்ணி பொடி 100g",
+    "price": 110,
+    "category": "Herbal Powders",
+    "unit": "100 g",
+    "image": "assets/product_36.png",
+    "images": [
+      "assets/product_36.png",
+      "assets/product_36_alt.png"
+    ]
+  },
+  {
+    "sku": "DRY-COCO-200",
+    "name_en": "Dried Coconut Powder 200g",
+    "name_ta": "உலர் தேங்காய் பொடி 200g",
+    "price": 85,
+    "category": "Dry & Mixes",
+    "unit": "200 g",
+    "image": "assets/product_37.png",
+    "images": [
+      "assets/product_37.png",
+      "assets/product_37_alt.png"
+    ]
+  },
+  {
+    "sku": "MSL-IDLY-200",
+    "name_en": "Idly Podi 200g",
+    "name_ta": "இத்லி பொடி 200g",
+    "price": 110,
+    "category": "Masalas & Blends",
+    "unit": "200 g",
+    "image": "assets/product_38.png",
+    "images": [
+      "assets/product_38.png",
+      "assets/product_38_alt.png"
+    ]
+  },
+  {
+    "sku": "HRB-MANATH-100",
+    "name_en": "Manathakkali Keerai Powder 100g",
+    "name_ta": "மணத்தக்காளி கீரை பொடி 100g",
+    "price": 110,
+    "category": "Herbal Powders",
+    "unit": "100 g",
+    "image": "assets/product_39.png",
+    "images": [
+      "assets/product_39.png",
+      "assets/product_39_alt.png"
+    ]
+  },
+  {
+    "sku": "NAT-HONEY-500",
+    "name_en": "Pure Honey 500g",
+    "name_ta": "சுத்தமான தேன் 500g",
+    "price": 299,
+    "category": "Sweeteners",
+    "unit": "500 g",
+    "image": "assets/product_40.png",
+    "images": [
+      "assets/product_40.png",
+      "assets/product_40_alt.png"
+    ]
+  },
+  {
+    "sku": "COND-UPPUKAR-200",
+    "name_en": "Uppu Karanam 200g",
+    "name_ta": "உப்பு கரணம் 200g",
+    "price": 70,
+    "category": "Condiments",
+    "unit": "200 g",
+    "image": "assets/product_41.png",
+    "images": [
+      "assets/product_41.png",
+      "assets/product_41_alt.png"
+    ]
+  },
+  {
+    "sku": "HRB-KEELANEL-100",
+    "name_en": "Keelanelli Powder 100g",
+    "name_ta": "கீல்நெல்லி பொடி 100g",
+    "price": 110,
+    "category": "Herbal Powders",
+    "unit": "100 g",
+    "image": "assets/product_42.png",
+    "images": [
+      "assets/product_42.png",
+      "assets/product_42_alt.png"
+    ]
+  },
+  {
+    "sku": "HRB-KOLLU-200",
+    "name_en": "Kollu (Horsegram) Powder 200g",
+    "name_ta": "கொள்ளு பொடி 200g",
+    "price": 120,
+    "category": "Herbal Powders",
+    "unit": "200 g",
+    "image": "assets/product_43.png",
+    "images": [
+      "assets/product_43.png",
+      "assets/product_43_alt.png"
+    ]
+  },
+  {
+    "sku": "HRB-KUPPAI-100",
+    "name_en": "Kuppaimeni Leaf Powder 100g",
+    "name_ta": "குப்பைமேனி இலை பொடி 100g",
+    "price": 95,
+    "category": "Herbal Powders",
+    "unit": "100 g",
+    "image": "assets/product_44.png",
+    "images": [
+      "assets/product_44.png",
+      "assets/product_44_alt.png"
+    ]
+  },
+  {
+    "sku": "VTL-MANGO-200",
+    "name_en": "Mangai Vathal 200g",
+    "name_ta": "மாங்காய் வத்தல் 200g",
+    "price": 150,
+    "category": "Vathals & Fryums",
+    "unit": "200 g",
+    "image": "assets/product_45.png",
+    "images": [
+      "assets/product_45.png",
+      "assets/product_45_alt.png"
+    ]
+  },
+  {
+    "sku": "HRB-MURUN-SEED-100",
+    "name_en": "Murungai Vithai Powder 100g",
+    "name_ta": "முருங்கை விதை பொடி 100g",
+    "price": 130,
+    "category": "Herbal Powders",
+    "unit": "100 g",
+    "image": "assets/product_46.png",
+    "images": [
+      "assets/product_46.png",
+      "assets/product_46_alt.png"
+    ]
+  },
+  {
+    "sku": "SPC-DRYG-100",
+    "name_en": "Chukku (Dry Ginger) Powder 100g",
+    "name_ta": "சுக்கு தூள் 100g",
+    "price": 90,
+    "category": "Spices & Powders",
+    "unit": "100 g",
+    "image": "assets/product_47.png",
+    "images": [
+      "assets/product_47.png",
+      "assets/product_47_alt.png"
+    ]
+  },
+  {
+    "sku": "VTL-SUN-200",
+    "name_en": "Sundakkai Vathal 200g",
+    "name_ta": "சுண்டக்காய் வத்தல் 200g",
+    "price": 140,
+    "category": "Vathals & Fryums",
+    "unit": "200 g",
+    "image": "assets/product_48.png",
+    "images": [
+      "assets/product_48.png",
+      "assets/product_48_alt.png"
+    ]
+  },
+  {
+    "sku": "OIL-BADAM-100",
+    "name_en": "Badam Oil 100ml",
+    "name_ta": "பாதாம் எண்ணெய் 100ml",
+    "price": 220,
+    "category": "Oils",
+    "unit": "100 ml",
+    "image": "assets/product_49.png",
+    "images": [
+      "assets/product_49.png",
+      "assets/product_49_alt.png"
+    ]
+  },
+  {
+    "sku": "SPC-FENUG-200",
+    "name_en": "Vendaya (Fenugreek) Powder 200g",
+    "name_ta": "வெந்தய தூள் 200g",
+    "price": 75,
+    "category": "Spices & Powders",
+    "unit": "200 g",
+    "image": "assets/product_50.png",
+    "images": [
+      "assets/product_50.png",
+      "assets/product_50_alt.png"
+    ]
+  },
+  {
+    "sku": "SPC-CUMIN-200",
+    "name_en": "Jeera (Cumin) Powder 200g",
+    "name_ta": "சீரக தூள் 200g",
+    "price": 90,
+    "category": "Spices & Powders",
+    "unit": "200 g",
+    "image": "assets/product_51.png",
+    "images": [
+      "assets/product_51.png",
+      "assets/product_51_alt.png"
+    ]
+  },
+  {
+    "sku": "SPC-CORI-200",
+    "name_en": "Coriander Powder 200g",
+    "name_ta": "கொத்தமல்லி தூள் 200g",
+    "price": 70,
+    "category": "Spices & Powders",
+    "unit": "200 g",
+    "image": "assets/product_52.png",
+    "images": [
+      "assets/product_52.png",
+      "assets/product_52_alt.png"
+    ]
+  },
+  {
+    "sku": "SPC-PEPP-100",
+    "name_en": "Pepper Powder 100g",
+    "name_ta": "மிளகு தூள் 100g",
+    "price": 120,
+    "category": "Spices & Powders",
+    "unit": "100 g",
+    "image": "assets/product_53.png",
+    "images": [
+      "assets/product_53.png",
+      "assets/product_53_alt.png"
+    ]
+  },
+  {
+    "sku": "HRB-CURRY-100",
+    "name_en": "Curry Leaves Powder 100g",
+    "name_ta": "கருவேப்பிலை பொடி 100g",
+    "price": 90,
+    "category": "Herbal Powders",
+    "unit": "100 g",
+    "image": "assets/product_54.png",
+    "images": [
+      "assets/product_54.png",
+      "assets/product_54_alt.png"
+    ]
+  }
+]

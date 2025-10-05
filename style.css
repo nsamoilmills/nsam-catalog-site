@@ -1,0 +1,59 @@
+/* Base */
+*{box-sizing:border-box}
+body{font-family:Inter,'Noto Sans Tamil',system-ui,-apple-system,Segoe UI,Roboto,sans-serif;margin:0;background:#fafafa;color:#222}
+body.no-scroll{overflow:hidden}
+header{background:#0b7a43;color:#fff;padding:18px;display:flex;align-items:center;justify-content:space-between}
+.brand{font-weight:800;letter-spacing:.3px}
+.lang{display:flex;gap:8px;align-items:center}
+.container{max-width:1100px;margin:0 auto;padding:16px}
+.hero{background:#e6f3ec;border:1px solid #cfe7db;border-radius:14px;padding:18px;margin:14px 0}
+.filters{display:flex;gap:8px;flex-wrap:wrap;margin-top:8px}
+.filters button{border:1px solid #ddd;background:#fff;border-radius:999px;padding:6px 10px;cursor:pointer}
+.filters button.active{background:#0b7a43;color:#fff;border-color:#0b7a43}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:16px}
+.card{background:#fff;border:1px solid #e8e8e8;border-radius:12px;overflow:hidden;display:flex;flex-direction:column}
+.card img.main{width:100%;height:170px;object-fit:cover;background:#f2f2f2;cursor:zoom-in}
+.info{padding:12px;display:flex;flex-direction:column;gap:6px}
+.price{font-weight:700}
+.pill{font-size:12px;background:#f0fdf4;color:#14532d;border:1px solid #ccebd6;padding:4px 8px;border-radius:999px;display:inline-block}
+.thumbs{display:flex;gap:6px;margin:6px 0}
+.thumbs img{width:38px;height:38px;object-fit:cover;border:1px solid #ddd;border-radius:6px;cursor:pointer}
+.btn{display:inline-block;text-decoration:none;border:0;border-radius:10px;padding:10px 12px;background:#0b7a43;color:#fff;font-weight:600;text-align:center}
+footer{margin-top:30px;padding:24px;background:#f4f4f5;border-top:1px solid #e7e7e8}
+
+/* Lightbox */
+.lightbox{display:none;position:fixed;inset:0;background:rgba(0,0,0,.85);z-index:9999;align-items:center;justify-content:center;padding:16px}
+/* critical: make image fit without cropping */
+#lightbox img{
+  max-width:90vw;
+  max-height:85vh;
+  width:auto;
+  height:auto;
+  object-fit:contain; /* prevents any cropping */
+  display:block;
+  margin:auto;
+  background:#fff;
+  padding:8px;
+  border-radius:8px;
+  box-shadow:0 10px 30px rgba(0,0,0,.5);
+}
+.lightbox .close{
+  position:absolute;top:16px;right:16px;background:#fff;border:0;border-radius:999px;
+  padding:8px 12px;font-weight:700;cursor:pointer
+}
+/* Arrows stay at sides, not center on small screens */
+.lightbox .nav{
+  position:absolute;top:50%;transform:translateY(-50%);
+  width:44px;height:44px;border:0;border-radius:50%;
+  background:#ffffff;color:#111;font-size:28px;line-height:44px;text-align:center;
+  cursor:pointer;opacity:.9
+}
+.lightbox .nav:hover{opacity:1}
+.lightbox .prev{left:10px}
+.lightbox .next{right:10px}
+
+/* Allow small devices to still see full image */
+@media (max-width:480px){
+  #lightbox img{max-width:94vw;max-height:80vh;padding:6px}
+  .lightbox .nav{width:38px;height:38px;font-size:24px;line-height:38px}
+}
