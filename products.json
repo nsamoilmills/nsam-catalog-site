@@ -295,6 +295,9 @@
     "category": "Herbal Powders",
     "unit": "100 g",
     "image": "assets/mullumurungai.png",
+    "images": [
+      "assets/mullumurungai.png.png",
+      "assets/product_23_alt.png"
     ]
   },
   {
